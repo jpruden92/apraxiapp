@@ -1,0 +1,47 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.header {
+    display: block;
+    position: relative;
+    height: 100px;
+    padding: 10px;
+}
+.header img {
+    position: relative;
+    display: block;
+    height: 100px;
+    margin: 0 auto;
+}
+.gif {
+    margin: 10px auto;
+    width: 50%;
+}
+.gif img {
+    width: 100%;
+}
+.back {
+    width: calc(100%-10px);
+    background: white;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    font-size: 20pt;
+    border-radius: 10px;
+}
+.menu-button {
+    height: 60px;
+    display: block;
+    position: relative;
+    padding: 5px;
+    margin: 5px 0;
+    border-radius: 10px;
+}
+.menu-button img {
+    position: relative;
+    display: block;
+    height: 60px;
+    margin: 0 auto;
+}
